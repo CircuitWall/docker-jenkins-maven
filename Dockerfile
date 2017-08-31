@@ -1,5 +1,5 @@
 FROM jenkins:2.60.2-alpine
-MAINTAINER Andrew Wu andrew.wu@thinkbiganalytics.com
+MAINTAINER Andrew Wu andrew.ge.wu@gmail.com
 
 # Install Jenkins Plugins
 COPY resources/plugins.txt /usr/share/jenkins/plugins.txt
